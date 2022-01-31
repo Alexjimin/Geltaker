@@ -2,6 +2,6 @@
 gelbooru downloader command line application
 
 # Features
-Add search tags
-Remove search tags
+Add search tags, \n
+Remove search tags, \n
 Batch download files
